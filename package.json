@@ -1,0 +1,22 @@
+{
+  "name": "cnn-spike",
+  "version": "1.0.0",
+  "description": "convolutional neural network experiment",
+  "main": "network.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedillon93/CNN-spike.git"
+  },
+  "author": "shannon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sedillon93/CNN-spike/issues"
+  },
+  "homepage": "https://github.com/sedillon93/CNN-spike#readme",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
